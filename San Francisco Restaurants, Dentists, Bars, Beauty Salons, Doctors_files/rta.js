@@ -1,0 +1,1 @@
+crtg_content = ''; (function(){document.cookie = 'crtg_ypus=' + escape(crtg_content) + '; path=/; expires=Mon, 30 Nov 2015 05:03:44 GMT; domain=yelp.com';})();
